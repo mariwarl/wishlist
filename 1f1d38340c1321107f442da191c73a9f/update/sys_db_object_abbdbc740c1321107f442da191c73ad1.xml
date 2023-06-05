@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -10,7 +10,7 @@
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
-        <label>With Item</label>
+        <label>Wish Item</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_snc_wishlist_with_item</name>
         <number_ref/>
@@ -22,7 +22,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-05 13:54:37</sys_created_on>
         <sys_id>abbdbc740c1321107f442da191c73ad1</sys_id>
-        <sys_name>Wishlist With Item</sys_name>
+        <sys_name>Wish Item</sys_name>
         <sys_package display_value="WishList" source="x_snc_wishlist">1f1d38340c1321107f442da191c73a9f</sys_package>
         <sys_policy/>
         <sys_scope display_value="WishList">1f1d38340c1321107f442da191c73a9f</sys_scope>
